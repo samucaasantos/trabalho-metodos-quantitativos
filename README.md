@@ -294,7 +294,7 @@ As variáveis contínuas foram transformadas em categorias ordinais para anális
 
 ## 👥 Autor
 
-**Samuel Assunção dos Santos**  
+**Samuel de Almeida dos Santos**  
 [GitHub](https://github.com/samucaasantos)
 
 ---
